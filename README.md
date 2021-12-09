@@ -1,1 +1,1 @@
-# Flask-Webapp-MySQL
+# Flask simple MySQL App

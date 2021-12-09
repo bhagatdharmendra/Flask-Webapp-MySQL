@@ -1,0 +1,4 @@
+mysql_host: flask-web.cxq5xx0grdtb.ap-south-1.rds.amazonaws.com
+mysql_user: admin 
+mysql_password: Redhat123
+mysql_db: flaskapp
